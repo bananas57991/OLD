@@ -1,1 +1,1 @@
-
+# These files were created 03/23/2026 12:26 am pst and were originally in the repo titled FALT before iterative edits were made and these became unused or no longer functional for project progression.
